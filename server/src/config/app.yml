@@ -1,1 +1,3 @@
-
+sessions_secret: any_secret
+postgres:
+  url: "postgresql://username:password@host/database"
